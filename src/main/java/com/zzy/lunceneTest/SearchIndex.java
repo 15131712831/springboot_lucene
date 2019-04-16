@@ -33,8 +33,6 @@ public class SearchIndex {
             System.out.println("author:"+document.get("author"));
             System.out.println("date:"+document.get("date"));
 
-
-
         }
 
     }
